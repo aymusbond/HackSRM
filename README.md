@@ -24,3 +24,6 @@ update 1:15:
 The program is able to speak out the text from any format of image in one go.We are doing in a way that, it is scanning a text and giving the output by reading it. It means it is working as a book reader and even more than that.
 Going to integrate all the above functions into an app or website.
 
+update 4:20:
+Finally we come up with an idea which can scan any text image of any language and will convert it into any a text of any language which you are preferable in.
+The next step of ours is to connect our phone cam with the code and convert the translated text into voice. 
