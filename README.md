@@ -14,3 +14,8 @@ This is expected to help out blind/visually impaired people.
 update 9:15:
 We are able to convert a text from english to more than 50 global languages.
 Now, we are trying to convert these outputs to their respective speech.
+
+update 11:10:
+Able to convert an image to text using tesseract.
+Able to speak out text.
+Going to integrate all the above functions into an app or website.
