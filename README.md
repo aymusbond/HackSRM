@@ -1,7 +1,15 @@
 # HackSRM
-Planning to make a "LANGUAGE TRANSLATOR".
-It will take input as speech and convert it into text.
-The text will be converted into preferable language.
+"BOOK ATTIC"
+
+ABOUT -
+We have come up  with an idea of solving language barrier , we will be taking input as an image from any source which we want to translate into any language we want, whether its any local language or a global language.
+
+PROBLEM STATEMENT -
+As people all over the world face problem in communicating with each other when they travel across the globe and fail in grabbing information of high concern, we have built a code which will solve this problem in a couple of seconds. Along with this it's also a plus point for visually impaired people who will be able to read any book of their wish in an audio format and that too of any language!
+
+FEASIBILITY - 
+This program cuts out on all the lengthy steps and just require you to take a pic of the text you want to be translated and read it aloud. 
+
 
 
 update 6:00:
