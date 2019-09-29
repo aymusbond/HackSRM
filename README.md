@@ -12,7 +12,7 @@ We are able to successfully convert any piece of digital text into speech.
 This is expected to help out blind/visually impaired people.
 
 update 9:15:
-We are able to convert a text from english to more than 50 global languages.
+We are able to convert a text from english to more indian and global languages.
 Now, we are trying to convert these outputs to their respective speech.
 
 update 11:10:
@@ -34,3 +34,11 @@ Trying to integrate web cam to convert image text into picture extension files.
 
 update 7:05 am:
 Done with the ppt presentation and the hack is also almost ready. Just to implement the web cam to the code. Trying to make it more advanced adding more features to it. 
+
+update 10:48 am:
+We are done with the whole part of the coding including the transformation of text captured by webcam into an audio file with yours language preference.
+Steps that our program does:
+1)It takes text as image captured directly from webcam.
+2)It then recognizes the image and convert it into digital text.
+3)The digital text is converted it into your prefered language and will read aloud for you.
+along with this, our presentation is ready and also if time permits us, we are trying to add more and more features to it. 
