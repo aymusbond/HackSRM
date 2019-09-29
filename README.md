@@ -31,3 +31,6 @@ The next step of ours is to connect our phone cam with the code and convert the 
 update 5:55 am:
 Finally we succeed in getting the voice message of all the text in all the prefferable languages . 
 Trying to integrate web cam to convert image text into picture extension files.
+
+update 7:05 am:
+Done with the ppt presentation and the hack is also almost ready. Just to implement the web cam to the code. Trying to make it more advanced adding more features to it. 
