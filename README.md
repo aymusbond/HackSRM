@@ -2,7 +2,7 @@
 "BOOK ATTIC"
 
 ABOUT -
-We have come up  with an idea of solving language barrier , we will be taking input as an image from any source which we want to translate into any language we want, whether its any local language or a global language.
+We came up with the idea of fighting the language barrier along with the problems of people with impaired vision. Our app will give anyone the power to immediately translate a text in any language to the language of your choice. For the blind our app can be combined with their specs to read them out the text in front of them. A world where reading won't be a barrier anymore.
 
 PROBLEM STATEMENT -
 As people all over the world face problem in communicating with each other when they travel across the globe and fail in grabbing information of high concern, we have built a code which will solve this problem in a couple of seconds. Along with this it's also a plus point for visually impaired people who will be able to read any book of their wish in an audio format and that too of any language!
